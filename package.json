@@ -1,0 +1,16 @@
+{
+  "name": "viewmodel-azure",
+  "version": "1.0.0",
+  "description": "alternte azure db implementation for viewmodel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mpseidel@bitbucket.org/mpseidel/viewmodel-azure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/mpseidel/viewmodel-azure#readme"
+}
